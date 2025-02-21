@@ -1,10 +1,15 @@
+import { BrowserRouter as Router, Routes, Route} from "react-router-dom";
 import './App.css';
+import Home from "./Home";
 
 function App() {
   return (
     <div id="appbody">
-      <h3>landing page - edits 2 on 2/20</h3>
-      <h4>summary</h4>
+      <Router>
+         <Routes>
+           <Route exact path="/" element={<Home />}></Route>
+         </Routes>
+      </Router>
     </div>
   );
 }
