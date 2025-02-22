@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "selected": false,
+    "question": "What does a green arrow over a lane indicate?",
+    "option1": "A) The lane is closed",
+    "option2": "B) The lane is open to traffic in your direction",
+    "option3": "C) The lane is reserved for buses",
+    "option4": "D) The lane is for pedestrians",
+    "correct_answer": "B) The lane is open to traffic in your direction",
+    "explanation": "A green arrow over a lane indicates that the lane is open and you may use it to drive in the direction indicated by the arrow."
+  },
+  {
+    "id": 2,
+    "selected": false,
+    "question": "What does a red X over a lane mean?",
+    "option1": "A) The lane is open to traffic",
+    "option2": "B) You may enter the lane",
+    "option3": "C) The lane is closed and you cannot drive in it",
+    "option4": "D) The lane is reserved for parking",
+    "correct_answer": "C) The lane is closed and you cannot drive in it",
+    "explanation": "A red X over a lane means the lane is closed to traffic. Do not enter or use that lane when you see the red X."
+  },
+  {
+    "id": 3,
+    "selected": false,
+    "question": "When are you allowed to drive in a reserved lane for buses?",
+    "option1": "A) Only during non-peak hours",
+    "option2": "B) When the lane is marked with a green arrow",
+    "option3": "C) Only if there are no buses present",
+    "option4": "D) Only if you are a bus or have a specific permit",
+    "correct_answer": "D) Only if you are a bus or have a specific permit",
+    "explanation": "Reserved lanes for buses are meant for buses or other vehicles with a specific permit, such as carpool or high-occupancy vehicles."
+  },
+  {
+    "id": 4,
+    "selected": false,
+    "question": "What does a yellow signal light over a reversible lane mean?",
+    "option1": "A) You should slow down and prepare to stop",
+    "option2": "B) The lane is closed to all traffic",
+    "option3": "C) The lane is about to close",
+    "option4": "D) You can enter the lane, but only for a short time",
+    "correct_answer": "C) The lane is about to close",
+    "explanation": "A yellow signal light over a reversible lane indicates that the lane will soon be closed to traffic. Prepare to exit the lane safely."
+  },
+  {
+    "id": 5,
+    "selected": false,
+    "question": "What should you do if you are driving in a reversible lane and the signal changes from green to red?",
+    "option1": "A) Continue driving at the same speed",
+    "option2": "B) Immediately exit the lane and find an alternate route",
+    "option3": "C) Stop in the lane",
+    "option4": "D) Continue driving and ignore the signal change",
+    "correct_answer": "B) Immediately exit the lane and find an alternate route",
+    "explanation": "If the signal changes from green to red, you must immediately exit the reversible lane and move to a regular lane."
+  },
+  {
+    "id": 6,  
+    "selected": false,
+    "question": "What does a sign showing 'HOV' indicate in a lane?",
+    "option1": "A) The lane is reserved for high-occupancy vehicles",
+    "option2": "B) The lane is reserved for heavy trucks",
+    "option3": "C) The lane is for hybrid vehicles only",
+    "option4": "D) The lane is closed during certain hours",
+    "correct_answer": "A) The lane is reserved for high-occupancy vehicles",
+    "explanation": "A sign showing 'HOV' (High Occupancy Vehicle) indicates that the lane is reserved for vehicles carrying multiple passengers, typically two or more."
+  },
+  {
+    "id": 7,
+    "selected": false,
+    "question": "What is the rule for driving in a reversible lane during peak traffic hours?",
+    "option1": "A) You can drive in the lane if there is no traffic in the opposite direction",
+    "option2": "B) You cannot drive in a reversible lane during peak hours",
+    "option3": "C) You can only use the lane if you are in a carpool",
+    "option4": "D) You must drive in the lane even if it is congested",
+    "correct_answer": "C) You can only use the lane if you are in a carpool",
+    "explanation": "During peak traffic hours, reversible lanes may be designated for carpool or high-occupancy vehicles to help alleviate congestion."
+  },
+  {
+    "id": 8,
+    "selected": false,
+    "question": "What does a white diamond symbol on a lane indicate?",
+    "option1": "A) The lane is reserved for bicycles",
+    "option2": "B) The lane is for emergency vehicles only",
+    "option3": "C) The lane is for carpool or high-occupancy vehicles",
+    "option4": "D) The lane is for taxis only",
+    "correct_answer": "C) The lane is for carpool or high-occupancy vehicles",
+    "explanation": "A white diamond symbol indicates that the lane is reserved for carpool or high-occupancy vehicles (HOV)."
+  },
+  {
+    "id": 9,
+    "selected": false,
+    "question": "When using a reversible lane, how do you know which direction is allowed?",
+    "option1": "A) Look for signs that display the allowed direction for each time of day",
+    "option2": "B) The direction is always to the left",
+    "option3": "C) You are allowed to choose either direction depending on traffic",
+    "option4": "D) The direction of traffic is determined by traffic signals in the area",
+    "correct_answer": "A) Look for signs that display the allowed direction for each time of day",
+    "explanation": "Reversible lanes typically change direction based on time of day or traffic flow. Always look for signs indicating the current direction of traffic."
+  },
+  {
+    "id": 10,
+    "selected": false,
+    "question": "If you are driving in a reversible lane and the signal changes to a red X, what is the most important action to take?",
+    "option1": "A) Continue in the lane until you can safely exit",
+    "option2": "B) Immediately exit the lane and proceed to the next available lane",
+    "option3": "C) Slow down and wait for the signal to change back",
+    "option4": "D) Make a U-turn in the lane",
+    "correct_answer": "B) Immediately exit the lane and proceed to the next available lane",
+    "explanation": "A red X means you must immediately exit the reversible lane and find another available lane."
+  }
+]

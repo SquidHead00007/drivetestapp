@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "selected": false,
+    "question": "What is a Hot Lane?",
+    "option1": "A) A lane with high speed limits",
+    "option2": "B) A lane reserved for buses only",
+    "option3": "C) A lane that charges a toll to use during peak traffic times",
+    "option4": "D) A lane designated for emergency vehicles",
+    "correct_answer": "C) A lane that charges a toll to use during peak traffic times",
+    "explanation": "Hot Lanes are special lanes that charge a toll during peak hours to help reduce congestion and encourage carpooling."
+  },
+  {
+    "id": 2,
+    "selected": false,
+    "question": "What is the main purpose of an Express Toll Lane?",
+    "option1": "A) To allow all vehicles to travel at a higher speed",
+    "option2": "B) To reduce congestion by charging a toll for access during busy times",
+    "option3": "C) To allow taxis and buses to bypass regular lanes",
+    "option4": "D) To provide free travel for electric vehicles",
+    "correct_answer": "B) To reduce congestion by charging a toll for access during busy times",
+    "explanation": "Express Toll Lanes aim to reduce congestion by charging tolls that vary depending on traffic conditions, allowing faster travel for paying drivers."
+  },
+  {
+    "id": 3,
+    "selected": false,
+    "question": "How do you pay for an Express Toll Lane?",
+    "option1": "A) Through cash payment at the toll booth",
+    "option2": "B) With a transponder or electronic toll collection device",
+    "option3": "C) By paying at a gas station before entering the toll lane",
+    "option4": "D) By purchasing a toll ticket at the entrance",
+    "correct_answer": "B) With a transponder or electronic toll collection device",
+    "explanation": "Express Toll Lanes usually require an electronic transponder or toll collection device to automatically charge your account as you use the lane."
+  },
+  {
+    "id": 4,
+    "selected": false,
+    "question": "Can you use an Express Toll Lane without paying the toll?",
+    "option1": "A) Yes, if you have a special exemption",
+    "option2": "B) No, you must pay to use the lane",
+    "option3": "C) Yes, during off-peak hours",
+    "option4": "D) No, unless you are driving an electric vehicle",
+    "correct_answer": "B) No, you must pay to use the lane",
+    "explanation": "You must pay the toll to use the Express Toll Lane. Failure to do so may result in fines or penalties."
+  },
+  {
+    "id": 5,
+    "selected": false,
+    "question": "Are carpool vehicles allowed to use Hot Lanes without paying the toll?",
+    "option1": "A) Yes, if the vehicle has a minimum number of passengers",
+    "option2": "B) No, all vehicles must pay the toll",
+    "option3": "C) Yes, if the vehicle is electric",
+    "option4": "D) No, unless the carpool vehicle is registered",
+    "correct_answer": "A) Yes, if the vehicle has a minimum number of passengers",
+    "explanation": "Carpool vehicles with a certain number of passengers (typically two or more) are often allowed to use Hot Lanes without paying a toll."
+  },
+  {
+    "id": 6,
+    "selected": false,
+    "question": "What happens if you drive in an Express Toll Lane without a transponder?",
+    "option1": "A) You will be charged at the toll booth",
+    "option2": "B) You will receive a fine or penalty",
+    "option3": "C) You will be stopped and warned",
+    "option4": "D) You will be directed to a different lane",
+    "correct_answer": "B) You will receive a fine or penalty",
+    "explanation": "If you drive in an Express Toll Lane without a transponder or proper payment, you may receive a fine for violating toll lane rules."
+  },
+  {
+    "id": 7,
+    "selected": false,
+    "question": "Can you drive in a Hot Lane if you are driving alone?",
+    "option1": "A) Yes, if the toll is low enough",
+    "option2": "B) No, unless you have a special permit",
+    "option3": "C) Yes, but you must pay the toll",
+    "option4": "D) No, only carpools are allowed",
+    "correct_answer": "C) Yes, but you must pay the toll",
+    "explanation": "You can drive alone in a Hot Lane, but you will be required to pay the toll for access."
+  },
+  {
+    "id": 8,
+    "selected": false,
+    "question": "What is the main advantage of using Express Toll Lanes during heavy traffic?",
+    "option1": "A) They allow you to bypass tolls",
+    "option2": "B) They provide a faster route through congestion",
+    "option3": "C) They are free during busy times",
+    "option4": "D) They guarantee a parking spot at your destination",
+    "correct_answer": "B) They provide a faster route through congestion",
+    "explanation": "Express Toll Lanes are designed to reduce congestion by offering a faster route, but users must pay a toll to access the lane."
+  },
+  {
+    "id": 9,
+    "selected": false,
+    "question": "What type of vehicle can use the Express Toll Lane if they meet certain criteria?",
+    "option1": "A) Only electric vehicles",
+    "option2": "B) Only high-occupancy vehicles",
+    "option3": "C) Only emergency vehicles",
+    "option4": "D) Any vehicle paying the toll",
+    "correct_answer": "D) Any vehicle paying the toll",
+    "explanation": "Any vehicle that pays the toll is allowed to use the Express Toll Lane, regardless of its type, as long as the toll is paid."
+  },
+  {
+    "id": 10,
+    "selected": false,
+    "question": "What do the signs above an Express Toll Lane indicate?",
+    "option1": "A) The toll amount and lane availability",
+    "option2": "B) The maximum speed limit for the lane",
+    "option3": "C) The hours during which the lane is open",
+    "option4": "D) The minimum number of passengers required",
+    "correct_answer": "A) The toll amount and lane availability",
+    "explanation": "Signs above Express Toll Lanes typically show the current toll amount and whether the lane is open or closed for use."
+  }
+]

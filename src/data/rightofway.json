@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "selected": false,
+    "question": "When should you yield the right-of-way to pedestrians?",
+    "option1": "A) Only at crosswalks",
+    "option2": "B) At all times, regardless of whether or not they are at a crosswalk",
+    "option3": "C) Only if they are crossing in front of your vehicle",
+    "option4": "D) Only when pedestrians are not jaywalking",
+    "correct_answer": "B) At all times, regardless of whether or not they are at a crosswalk",
+    "explanation": "You must yield the right-of-way to pedestrians at all times, even if they are not in a crosswalk."
+  },
+  {
+    "id": 2,
+    "selected": false,
+    "question": "Who has the right-of-way when you are turning left at an intersection?",
+    "option1": "A) Vehicles approaching from the left",
+    "option2": "B) Vehicles approaching from the right",
+    "option3": "C) Pedestrians in the crosswalk",
+    "option4": "D) All of the above",
+    "correct_answer": "D) All of the above",
+    "explanation": "You must yield the right-of-way to vehicles coming from the opposite direction, pedestrians in the crosswalk, and any other traffic at the intersection."
+  },
+  {
+    "id": 3,
+    "selected": false,
+    "question": "What should you do when you approach an intersection and a vehicle is already there, but you have a stop sign?",
+    "option1": "A) Proceed if you are not in their way",
+    "option2": "B) Wait for them to go first if they are on the same road",
+    "option3": "C) Go if they are turning",
+    "option4": "D) Immediately go ahead of them",
+    "correct_answer": "B) Wait for them to go first if they are on the same road",
+    "explanation": "If another vehicle has arrived at the intersection first, you must wait for them to go first, even if you have a stop sign."
+  },
+  {
+    "id": 4,
+    "selected": false,
+    "question": "Who has the right-of-way when you are entering a roundabout?",
+    "option1": "A) Vehicles already in the roundabout",
+    "option2": "B) Vehicles entering the roundabout",
+    "option3": "C) Pedestrians crossing the road",
+    "option4": "D) You, because you are already in the intersection",
+    "correct_answer": "A) Vehicles already in the roundabout",
+    "explanation": "Vehicles already in the roundabout have the right-of-way. You must yield to them before entering the roundabout."
+  },
+  {
+    "id": 5,
+    "selected": false,
+    "question": "What should you do if two vehicles approach an intersection at the same time and you are on the left?",
+    "option1": "A) Yield to the vehicle on the right",
+    "option2": "B) Proceed if the other vehicle is not moving",
+    "option3": "C) Signal and turn around",
+    "option4": "D) Continue and go first",
+    "correct_answer": "A) Yield to the vehicle on the right",
+    "explanation": "When two vehicles approach an intersection at the same time, the vehicle on the right has the right-of-way."
+  },
+  {
+    "id": 6,
+    "selected": false,
+    "question": "At an uncontrolled intersection, who has the right-of-way?",
+    "option1": "A) The vehicle on the right",
+    "option2": "B) The vehicle on the left",
+    "option3": "C) The vehicle traveling straight",
+    "option4": "D) There is no rule; it's a free-for-all",
+    "correct_answer": "A) The vehicle on the right",
+    "explanation": "At an uncontrolled intersection (without signs or signals), the vehicle on the right has the right-of-way."
+  },
+  {
+    "id": 7,
+    "selected": false,
+    "question": "What should you do when you see a yield sign?",
+    "option1": "A) Stop and wait for other vehicles to clear",
+    "option2": "B) Slow down and yield to any traffic or pedestrians",
+    "option3": "C) Continue driving at the same speed",
+    "option4": "D) Speed up to avoid delay",
+    "correct_answer": "B) Slow down and yield to any traffic or pedestrians",
+    "explanation": "When you see a yield sign, you must slow down, be prepared to stop, and yield to any traffic or pedestrians that have the right-of-way."
+  },
+  {
+    "id": 8,
+    "selected": false,
+    "question": "What do you do if another driver is signaling to turn into your lane, and you are already in that lane?",
+    "option1": "A) Speed up and cut them off",
+    "option2": "B) Yield to the other driver and allow them to enter your lane",
+    "option3": "C) Change lanes immediately to avoid them",
+    "option4": "D) Ignore their signal",
+    "correct_answer": "B) Yield to the other driver and allow them to enter your lane",
+    "explanation": "When another driver signals to turn into your lane, you must yield and allow them to enter safely."
+  },
+  {
+    "id": 9,
+    "selected": false,
+    "question": "Who has the right-of-way when merging onto a highway?",
+    "option1": "A) The vehicle merging onto the highway",
+    "option2": "B) The vehicles already on the highway",
+    "option3": "C) Both vehicles have equal rights",
+    "option4": "D) The vehicle with the fastest speed",
+    "correct_answer": "B) The vehicles already on the highway",
+    "explanation": "Vehicles already on the highway have the right-of-way when another vehicle merges onto it."
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "selected": false,
+    "question": "What does a red octagon-shaped sign indicate?",
+    "option1":        "A) Stop",
+    "option2":  "B) Yield",
+    "option3":  "C) Speed limit",
+    "option4":  "D) Caution",
+    "correct_answer": "A) Stop",
+    "explanation": "A red octagon-shaped sign is universally recognized as a stop sign, which requires you to come to a complete stop before proceeding."
+  },
+  {
+    "id": 2,
+    "selected": false,
+    "question": "What does a yellow diamond-shaped sign with two black arrows pointing in opposite directions mean?",
+    "option1":        "A) No entry",
+    "option2":  "B) Two-way traffic",
+    "option3":  "C) Lane merging",
+    "option4":  "D) Sharp curve",
+    "correct_answer": "B) Two-way traffic",
+    "explanation": "A yellow diamond-shaped sign with arrows pointing in opposite directions indicates that you're about to encounter two-way traffic."
+  },
+  {
+    "id": 3,
+    "selected": false,
+    "question": "What does a green circular sign with a white arrow mean?",
+    "option1":        "A) No left turn",
+    "option2":  "B) One-way street",
+    "option3":  "C) Yield",
+    "option4":  "D) Proceed with caution",
+    "correct_answer": "B) One-way street",
+    "explanation": "A green circular sign with a white arrow indicates a one-way street, where traffic is allowed to travel only in the direction of the arrow."
+  },
+  {
+    "id": 4,
+    "selected": false,
+    "question": "What does a yellow diamond-shaped sign with a black 'S' shape mean?",
+    "option1":        "A) Slippery road",
+    "option2":  "B) Speed limit change",
+    "option3":  "C) Winding road",
+    "option4":  "D) Railroad crossing",
+    "correct_answer": "A) Slippery road",
+    "explanation": "A yellow diamond-shaped sign with an 'S' shape warns drivers of a slippery road ahead, typically due to ice or wet conditions."
+  },
+  {
+    "id": 5,
+    "selected": false,
+    "question": "What does a white rectangular sign with a black border and a number indicate?",
+    "option1":        "A) Speed limit",
+    "option2":  "B) Parking rules",
+    "option3":  "C) Exit sign",
+    "option4":  "D) Directional sign",
+    "correct_answer": "A) Speed limit",
+    "explanation": "A white rectangular sign with a black border and a number indicates the speed limit for that area."
+  },
+  {
+    "id": 6,
+    "selected": false,
+    "question": "What does a blue circular sign with a white 'P' mean?",
+    "option1":        "A) Parking is prohibited",
+    "option2":  "B) Parking available",
+    "option3":  "C) Public transport only",
+    "option4":  "D) No parking at all times",
+    "correct_answer": "B) Parking available",
+    "explanation": "A blue circular sign with a white 'P' means that parking is permitted in the area indicated by the sign."
+  },
+  {
+    "id": 7,
+    "selected": false,
+    "question": "What does a black and white diagonal striped sign indicate?",
+    "option1":        "A) No parking zone",
+    "option2":  "B) End of roadwork area",
+    "option3":  "C) Railroad crossing",
+    "option4":  "D) A construction zone",
+    "correct_answer": "D) A construction zone",
+    "explanation": "A black and white diagonal striped sign typically indicates a construction zone, where drivers should slow down and be alert for workers."
+  },
+  {
+    "id": 8,
+    "selected": false,
+    "question": "What does a triangular sign with a red border and a white background indicate?",
+    "option1":        "A) Warning to yield",
+    "option2":  "B) Stop",
+    "option3":  "C) Yield",
+    "option4":  "D) No entry",
+    "correct_answer": "C) Yield",
+    "explanation": "A triangular sign with a red border and white background is a yield sign, which means you must give the right of way to other drivers or pedestrians."
+  },
+  {
+    "id": 9,
+    "selected": false,
+    "question": "What does a white square sign with a black symbol of a bicycle mean?",
+    "option1":        "A) Pedestrian crossing",
+    "option2":  "B) Bicycle lane",
+    "option3":  "C) School zone",
+    "option4":  "D) No parking for bicycles",
+    "correct_answer": "B) Bicycle lane",
+    "explanation": "A white square sign with a black symbol of a bicycle indicates that the area is a designated bicycle lane."
+  },
+  {
+    "id": 10,
+    "selected": false,
+    "question": "What does a red circle with a white horizontal line through the center mean?",
+    "option1":        "A) No left turn",
+    "option2":  "B) No right turn",
+    "option3":  "C) Do not enter",
+    "option4":  "D) No U-turn",
+    "correct_answer": "C) Do not enter",
+    "explanation": "A red circle with a white horizontal line through the center is a 'do not enter' sign, indicating that vehicles are not allowed to go in that direction."
+  }
+]

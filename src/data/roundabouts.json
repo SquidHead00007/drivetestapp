@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "selected": false,
+    "question": "What is the primary rule for entering a roundabout?",
+    "option1":  "A) Enter without yielding to other vehicles",
+    "option2":  "B) Yield to traffic already in the roundabout",
+    "option3":  "C) Always stop before entering the roundabout",
+    "option4":  "D) Proceed without slowing down",
+    "correct_answer": "B) Yield to traffic already in the roundabout",
+    "explanation": "When entering a roundabout, you must yield to traffic already circulating within the roundabout. This ensures safe merging with the flow of traffic."
+  },
+  {
+    "id": 2,
+    "selected": false,
+    "question": "What should you do if you miss your exit in a roundabout?",
+    "option1":  "A) Make a U-turn immediately",
+    "option2":  "B) Exit the roundabout at the next opportunity",
+    "option3":  "C) Stop and wait for the next opportunity",
+    "option4":  "D) Turn back and drive in the opposite direction",
+    "correct_answer": "B) Exit the roundabout at the next opportunity",
+    "explanation": "If you miss your exit, continue around the roundabout and exit at the next opportunity. Do not stop or attempt to reverse within the roundabout."
+  },
+  {
+    "id": 3,
+    "selected": false,
+    "question": "When approaching a roundabout, you should:",
+    "option1":  "A) Increase your speed to merge quickly",
+    "option2":  "B) Slow down and yield to pedestrians and cyclists",
+    "option3":  "C) Stop before entering, even if it's clear",
+    "option4":  "D) Wait for a green traffic signal",
+    "correct_answer": "B) Slow down and yield to pedestrians and cyclists",
+    "explanation": "Approaching a roundabout, you should slow down and yield to pedestrians and cyclists, as they have the right of way in crosswalks."
+  },
+  {
+    "id": 4,
+    "selected": false,
+    "question": "How should you signal when exiting a roundabout?",
+    "option1":  "A) Always signal left",
+    "option2":  "B) Signal right before exiting",
+    "option3":  "C) Signal left before entering and right before exiting",
+    "option4":  "D) No need to signal when exiting",
+    "correct_answer": "B) Signal right before exiting",
+    "explanation": "You should signal right before exiting the roundabout to indicate your intent to other drivers, pedestrians, and cyclists."
+  },
+  {
+    "id": 5,
+    "selected": false,
+    "question": "What should you do if you are driving in a roundabout and an emergency vehicle approaches?",
+    "option1":  "A) Continue driving until you exit the roundabout",
+    "option2":  "B) Stop in the roundabout and wait for the vehicle to pass",
+    "option3":  "C) Pull over to the right and stop immediately, if possible",
+    "option4":  "D) Enter the exit and stop immediately",
+    "correct_answer": "C) Pull over to the right and stop immediately, if possible",
+    "explanation": "When an emergency vehicle approaches, you must pull over to the right and stop, if possible, to allow the emergency vehicle to pass."
+  },
+  {
+    "id": 6,
+    "selected": false,
+    "question": "What is the correct way to navigate a multi-lane roundabout?",
+    "option1":  "A) Use the left lane for any exit",
+    "option2":  "B) Always stay in the right lane regardless of your exit",
+    "option3":  "C) Choose the correct lane for your exit and follow signs",
+    "option4":  "D) Stay in the center lane to avoid confusion",
+    "correct_answer": "C) Choose the correct lane for your exit and follow signs",
+    "explanation": "In a multi-lane roundabout, you should choose the appropriate lane based on your exit and follow any posted signs or lane markings."
+  },
+  {
+    "id": 7,
+    "selected": false,
+    "question": "What should you do if a pedestrian is waiting at a crosswalk inside the roundabout?",
+    "option1":  "A) Proceed through the crosswalk without stopping",
+    "option2":  "B) Yield to the pedestrian and allow them to cross",
+    "option3":  "C) Honk your horn to let the pedestrian know you are coming",
+    "option4":  "D) Drive around the pedestrian in the roundabout",
+    "correct_answer": "B) Yield to the pedestrian and allow them to cross",
+    "explanation": "Pedestrians have the right of way at crosswalks. You must yield to pedestrians waiting to cross or already crossing the roundabout."
+  },
+  {
+    "id": 8,
+    "selected": false,
+    "question": "How should you position your vehicle when approaching a roundabout?",
+    "option1":  "A) In the left lane, regardless of the exit",
+    "option2":  "B) In the center lane for easier navigation",
+    "option3":  "C) In the right lane if you plan to take the first exit",
+    "option4":  "D) In the left lane if you plan to take the first exit",
+    "correct_answer": "C) In the right lane if you plan to take the first exit",
+    "explanation": "If you plan to take the first exit, position your vehicle in the right lane. The left lane is typically for vehicles continuing around the roundabout."
+  },
+  {
+    "id": 9,
+    "selected": false,
+    "question": "What should you do if you encounter another vehicle that is not yielding to you in the roundabout?",
+    "option1":  "A) Honk and proceed without yielding",
+    "option2":  "B) Yield to the vehicle to avoid a collision",
+    "option3":  "C) Stop and wait for the vehicle to move",
+    "option4":  "D) Enter the roundabout in front of the vehicle",
+    "correct_answer": "B) Yield to the vehicle to avoid a collision",
+    "explanation": "If another vehicle does not yield, you must yield to them to avoid a collision. Safety should always be the priority."
+  },
+  {
+    "id": 10,
+    "selected": false,
+    "question": "When should you use your horn in a roundabout?",
+    "option1":  "A) Only when you're entering the roundabout",
+    "option2":  "B) When you're passing other vehicles",
+    "option3":  "C) Only to alert pedestrians and cyclists",
+    "option4":  "D) To warn other drivers of your intentions or when necessary for safety",
+    "correct_answer": "D) To warn other drivers of your intentions or when necessary for safety",
+    "explanation": "You should only use your horn to warn other drivers or pedestrians when necessary to prevent accidents or if you're in a potentially dangerous situation."
+  }
+]

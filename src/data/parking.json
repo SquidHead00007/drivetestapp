@@ -1,0 +1,113 @@
+[
+  {
+    "id": 1,
+    "selected": false,
+    "question": "Where is it illegal to park your vehicle?",
+    "option1": "A) On a crosswalk",
+    "option2": "B) In a private driveway without permission",
+    "option3": "C) In front of a fire hydrant",
+    "option4": "D) All of the above",
+    "correct_answer": "D) All of the above",
+    "explanation": "It is illegal to park on a crosswalk, in front of a fire hydrant, or in a private driveway without the owner's permission."
+  },
+  {
+    "id": 2,
+    "selected": false,
+    "question": "What should you do if you find your vehicle blocking a fire hydrant?",
+    "option1": "A) Move your vehicle immediately",
+    "option2": "B) Wait for a tow truck to arrive",
+    "option3": "C) Park and leave a note to explain",
+    "option4": "D) Leave your vehicle there if there’s no emergency",
+    "correct_answer": "A) Move your vehicle immediately",
+    "explanation": "If your vehicle is blocking a fire hydrant, you must move it immediately to allow emergency services access."
+  },
+  {
+    "id": 3,
+    "selected": false,
+    "question": "How far should you park from a stop sign?",
+    "option1": "A) At least 15 feet",
+    "option2": "B) At least 20 feet",
+    "option3": "C) At least 30 feet",
+    "option4": "D) At least 50 feet",
+    "correct_answer": "B) At least 20 feet",
+    "explanation": "You must park at least 20 feet away from a stop sign to allow drivers to see the sign and stop safely."
+  },
+  {
+    "id": 4,
+    "selected": false,
+    "question": "What is the rule when parking on the street at night?",
+    "option1": "A) You must leave your headlights on",
+    "option2": "B) You must leave your parking lights on",
+    "option3": "C) You must have your vehicle's parking brake on and lights off",
+    "option4": "D) You should park facing the flow of traffic",
+    "correct_answer": "C) You must have your vehicle's parking brake on and lights off",
+    "explanation": "When parking on the street at night, ensure your parking brake is on and your lights are turned off to avoid causing an obstruction."
+  },
+  {
+    "id": 5,
+    "selected": false,
+    "question": "Is it legal to park your vehicle in a handicapped parking space if you do not have a permit?",
+    "option1": "A) Yes, if there are no other available spaces",
+    "option2": "B) No, it is illegal to park there without a permit",
+    "option3": "C) Yes, as long as you don’t stay too long",
+    "option4": "D) No, but you may park if the space is empty",
+    "correct_answer": "B) No, it is illegal to park there without a permit",
+    "explanation": "It is illegal to park in a handicapped parking space without the appropriate permit or license plate."
+  },
+  {
+    "id": 6,    
+    "selected": false,
+    "question": "When parking on the side of the road, which way should your wheels be turned?",
+    "option1": "A) Always toward the curb",
+    "option2": "B) Always away from the curb",
+    "option3": "C) Towards the center of the road",
+    "option4": "D) No specific direction is required",
+    "correct_answer": "A) Always toward the curb",
+    "explanation": "When parking along the side of the road, turn your wheels toward the curb to prevent the vehicle from rolling into traffic."
+  },
+  {
+    "id": 7,
+    "selected": false,
+    "question": "What is the safest way to park your vehicle on a curb in a parallel parking space?",
+    "option1": "A) Park as close to the curb as possible",
+    "option2": "B) Park away from the curb to leave room for other cars",
+    "option3": "C) Park with one side of your car touching the curb",
+    "option4": "D) Park without using your parking brake",
+    "correct_answer": "A) Park as close to the curb as possible",
+    "explanation": "To safely park in a parallel parking space, park as close to the curb as possible to allow other vehicles to pass."
+  },
+  {
+    "id": 8,
+    "selected": false,
+    "question": "When parking on a hill, which direction should you turn your wheels if you are facing uphill and there is a curb?",
+    "option1": "A) Turn the wheels to the right",
+    "option2": "B) Turn the wheels to the left",
+    "option3": "C) Keep the wheels straight",
+    "option4": "D) It doesn't matter",
+    "correct_answer": "B) Turn the wheels to the left",
+    "explanation": "When facing uphill with a curb, turn your wheels to the left so that if the vehicle starts rolling, it will roll away from traffic and toward the curb."
+  },
+  {
+    "id": 9,
+    "selected": false,
+    "question": "What is the correct procedure when parking downhill on a hill with a curb?",
+    "option1": "A) Turn your wheels toward the curb",
+    "option2": "B) Turn your wheels away from the curb",
+    "option3": "C) Leave your wheels straight",
+    "option4": "D) Apply the parking brake only",
+    "correct_answer": "A) Turn your wheels toward the curb",
+    "explanation": "When parking downhill with a curb, turn your wheels toward the curb to prevent the vehicle from rolling into traffic."
+  },
+  {
+    "id": 10,
+    "selected": false,
+    "question": "When parking uphill without a curb, what direction should you turn your wheels?",
+    "option1": "A) Toward the curb",
+    "option2": "B) Away from the curb",
+    "option3": "C) Straight ahead",
+    "option4": "D) It doesn’t matter",
+    "correct_answer": "B) Away from the curb",
+    "explanation": "When parking uphill without a curb, turn your wheels away from the curb to avoid rolling into traffic."
+  }
+]
+

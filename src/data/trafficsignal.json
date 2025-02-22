@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "selected": false,
+    "question": "What does a red traffic light mean?",
+    "option1":        "A) Go",
+    "option2":  "B) Yield",
+    "option3":  "C) Stop",
+    "option4":  "D) Turn right",
+    "correct_answer": "C) Stop",
+    "explanation": "A red traffic light means stop, and you must remain stopped until the light turns green."
+  },
+  {
+    "id": 2,
+    "selected": false,
+    "question": "What should you do when you see a yellow (amber) traffic light?",
+    "option1":        "A) Speed up to cross the intersection",
+    "option2":  "B) Slow down and prepare to stop",
+    "option3":  "C) Stop immediately",
+    "option4":  "D) Continue as normal",
+    "correct_answer": "B) Slow down and prepare to stop",
+    "explanation": "A yellow light indicates that the light is about to turn red, so you should slow down and prepare to stop."
+  },
+  {
+    "id": 3,
+    "selected": false,
+    "question": "What does a green traffic light mean?",
+    "option1":        "A) Stop",
+    "option2":  "B) Proceed with caution",
+    "option3":  "C) Go",
+    "option4":  "D) Wait for a pedestrian to cross",
+    "correct_answer": "C) Go",
+    "explanation": "A green traffic light means you can go, but always yield to pedestrians and cross traffic if necessary."
+  },
+  {
+    "id": 4,
+    "selected": false,
+    "question": "What does a flashing red traffic light mean?",
+    "option1":        "A) Proceed without stopping",
+    "option2":  "B) Stop and proceed when safe",
+    "option3":  "C) Stop and wait for the light to turn green",
+    "option4":  "D) Slow down and proceed with caution",
+    "correct_answer": "B) Stop and proceed when safe",
+    "explanation": "A flashing red light works like a stop sign. You must stop and proceed only when it's safe to do so."
+  },
+  {
+    "id": 5,
+    "selected": false,
+    "question": "What does a flashing yellow traffic light mean?",
+    "option1":        "A) Stop and wait for the light to turn green",
+    "option2":  "B) Proceed with caution",
+    "option3":  "C) Speed up to clear the intersection",
+    "option4":  "D) Yield to pedestrians",
+    "correct_answer": "B) Proceed with caution",
+    "explanation": "A flashing yellow light means you should proceed with caution, as there may be hazards or other vehicles in the intersection."
+  },
+  {
+    "id": 6,
+    "selected": false,
+    "question": "When approaching a traffic signal that is not working, what should you do?",
+    "option1":        "A) Ignore the signal and continue driving",
+    "option2":  "B) Treat the intersection as a four-way stop",
+    "option3":  "C) Proceed with caution",
+    "option4":  "D) Wait for the signal to be repaired",
+    "correct_answer": "B) Treat the intersection as a four-way stop",
+    "explanation": "If a traffic signal is not working, treat the intersection as a four-way stop, and proceed when it is safe."
+  },
+  {
+    "id": 7,  
+    "selected": false,
+    "question": "What does a steady green arrow mean?",
+    "option1":        "A) You must stop",
+    "option2":  "B) You are allowed to turn in the direction of the arrow",
+    "option3":  "C) You must yield to oncoming traffic",
+    "option4":  "D) You must yield to pedestrians",
+    "correct_answer": "B) You are allowed to turn in the direction of the arrow",
+    "explanation": "A steady green arrow gives you the right of way to turn in the direction of the arrow."
+  },
+  {
+    "id": 8,
+    "selected": false,
+    "question": "What should you do if you are at an intersection and the traffic light changes from green to yellow?",
+    "option1":        "A) Stop if you can do so safely",
+    "option2":  "B) Speed up to clear the intersection",
+    "option3":  "C) Slow down and yield to pedestrians",
+    "option4":  "D) Proceed as normal",
+    "correct_answer": "A) Stop if you can do so safely",
+    "explanation": "If you can stop safely before the intersection, you should do so. If not, you may continue through."
+  },
+  {
+    "id": 9,
+    "selected": false,
+    "question": "What is the meaning of a red arrow at an intersection?",
+    "option1":        "A) You must stop and cannot turn in the direction of the arrow",
+    "option2":  "B) You may turn if no cars are present",
+    "option3":  "C) You may proceed with caution",
+    "option4":  "D) You must stop but can turn when the light changes",
+    "correct_answer": "A) You must stop and cannot turn in the direction of the arrow",
+    "explanation": "A red arrow indicates that you must stop and are not allowed to turn in the direction of the arrow until the light turns green."
+  },
+  {
+    "id": 10,
+    "selected": false,
+    "question": "What does a steady yellow arrow indicate?",
+    "option1":        "A) The light is about to turn red, prepare to stop",
+    "option2":  "B) You can still turn but must do so quickly",
+    "option3":  "C) You are not allowed to turn in the direction of the arrow",
+    "option4":  "D) The intersection is clear to proceed",
+    "correct_answer": "A) The light is about to turn red, prepare to stop",
+    "explanation": "A yellow arrow means the light is about to change to red, and you should stop if it is safe to do so."
+  }
+]

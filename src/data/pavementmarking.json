@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "selected": false,
+    "question": "What does a solid white line on the right edge of the roadway mean?",
+    "option1": "A) You may pass other vehicles",
+    "option2":      "B) You may not change lanes",
+    "option3":      "C) You should stay within the lane",
+    "option4":      "D) Lane change is allowed if safe",
+    "correct_answer": "C) You should stay within the lane",
+    "explanation": "A solid white line on the right edge of the roadway marks the boundary of the roadway and indicates that you should stay within the lane."
+  },
+  {
+    "id": 2,
+    "selected": false,
+    "question": "What does a double solid yellow line in the center of the road indicate?",
+    "option1":      "A) You may pass if no cars are coming",
+    "option2":      "B) Passing is not allowed in either direction",
+    "option3":      "C) Passing is allowed only on the left",
+    "option4":      "D) Passing is allowed only on the right",
+    "correct_answer": "B) Passing is not allowed in either direction",
+    "explanation": "A double solid yellow line means that passing is not allowed in either direction. You must remain in your lane."
+  },
+  {
+    "id": 3,
+    "selected": false,
+    "question": "What does a dashed white line between lanes mean?",
+    "option1": "A) Lane change is prohibited",
+    "option2":      "B) Lane change is allowed",
+    "option3":      "C) No parking allowed",
+    "option4":      "D) Stop at the intersection",
+    "correct_answer": "B) Lane change is allowed",
+    "explanation": "A dashed white line indicates that lane change is allowed. Drivers can move from one lane to another when it's safe."
+  },
+  {
+    "id": 4,
+    "selected": false,
+    "question": "What do two solid white lines next to each other indicate?",
+    "option1": "A) Lane change is allowed",
+    "option2":      "B) Lane change is not allowed",
+    "option3":      "C) No passing allowed",
+    "option4":      "D) Pedestrian crossing",
+    "correct_answer": "B) Lane change is not allowed",
+    "explanation": "Two solid white lines next to each other indicate that lane changes are not permitted in either direction. It is a safety measure for areas like intersections or exit ramps."
+  },
+  {
+    "id": 5,  
+    "selected": false,
+    "question": "What is indicated by a solid yellow line to the left of a broken yellow line?",
+    "option1":       "A) Passing is allowed on the solid side",
+    "option2":      "B) Passing is allowed on the broken side",
+    "option3":      "C) No passing allowed on either side",
+    "option4":      "D) Passing is allowed only on the solid side if no vehicles are coming",
+    "correct_answer": "B) Passing is allowed on the broken side",
+    "explanation": "When a solid yellow line is next to a broken yellow line, passing is allowed only on the side with the broken line. Drivers should not cross the solid line to pass."
+  },
+  {
+    "id": 6,
+    "selected": false,
+    "question": "What does a double solid white line on a road mean?",
+    "option1":       "A) Lane change is allowed in both directions",
+    "option2":      "B) Lane change is prohibited in both directions",
+    "option3":      "C) One-way street",
+    "option4":      "D) Pedestrian crossing area",
+    "correct_answer": "B) Lane change is prohibited in both directions",
+    "explanation": "Double solid white lines indicate that lane changes are prohibited in both directions. These markings are often found in areas like tunnels or at intersections."
+  },
+  {
+    "id": 7,
+    "selected": false,
+    "question": "What does a solid white line across an intersection or crosswalk mean?",
+    "option1":       "A) Yield to pedestrians",
+    "option2":      "B) Stop for pedestrians or other vehicles",
+    "option3":      "C) Proceed without stopping",
+    "option4":      "D) Stop only if there is traffic",
+    "correct_answer": "B) Stop for pedestrians or other vehicles",
+    "explanation": "A solid white line across an intersection or crosswalk is a stop line, indicating where you must stop for pedestrians or other vehicles."
+  },
+  {
+    "id": 8,
+    "selected": false,
+    "question": "What does a dashed yellow line indicate?",
+    "option1": "A) No passing allowed",
+    "option2": "B) Passing is allowed in both directions",
+    "option3": "C) No parking allowed",
+    "option4": "D) No left turns allowed",
+    "correct_answer": "C) Passing is allowed only in one direction",
+    "explanation": "A dashed yellow line indicates that passing is allowed in the direction of the broken line. It helps guide drivers where overtaking other vehicles is permissible."
+  },
+  {
+    "id": 9,
+    "selected": false,
+    "question": "What do white diagonal stripes across the roadway mean?",
+    "option1": "A) Pedestrian crossing",
+    "option2":      "B) A parking area",
+    "option3":      "C) A lane is closed or not usable",
+    "option4":      "D) A bike lane",
+    "correct_answer": "C) A lane is closed or not usable",
+    "explanation": "White diagonal stripes across the roadway are used to indicate areas where driving or parking is prohibited, often where a lane is closed or not usable."
+  },
+  {
+    "id": 10,
+    "selected": false,
+    "question": "What does a solid white line at the edge of the road indicate?",
+    "option1": "A) A pedestrian zone",
+    "option2":      "B) The boundary of the road",
+    "option3":      "C) A parking area",
+    "option4":       "D) An emergency vehicle lane",
+    "correct_answer": "B) The boundary of the road",
+    "explanation": "A solid white line at the edge of the road marks the boundary and indicates that vehicles should stay within the road limits."
+  }
+]

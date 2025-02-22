@@ -1,0 +1,112 @@
+[
+  {
+    "id":1,
+    "selected":false,
+    "question": "What should you do when approaching a stop sign?",
+    "option1": "A) Slow down and proceed if no cars are coming",
+    "option2": "B) Stop completely at the stop line, crosswalk, or intersection",
+    "option3": "C) Only stop if there are other vehicles around",
+    "option4": "D) Honk to alert other drivers of your approach",
+    "correct_answer": "B) Stop completely at the stop line, crosswalk, or intersection",
+    "explanation": "At a stop sign, you must come to a complete stop before the stop line, crosswalk, or intersection, regardless of other vehicles."
+  },
+  {
+    "id":2,
+    "selected":false,
+    "question": "What is the right-of-way rule when two vehicles arrive at an intersection without traffic signs or signals?",
+    "option1": "A) The vehicle on the left has the right-of-way",
+    "option2": "B) The vehicle on the right has the right-of-way",
+    "option3": "C) The first vehicle to arrive at the intersection has the right-of-way",
+    "option4": "D) The vehicle going straight has the right-of-way",
+    "correct_answer": "B) The vehicle on the right has the right-of-way",
+    "explanation": "If two vehicles arrive at an intersection at the same time and there are no traffic signs or signals, the vehicle on the right has the right-of-way."
+  },
+  {
+    "id":3,
+    "selected":false,
+    "question": "When should you use your headlights while driving?",
+    "option1": "A) Only at night",
+    "option2": "B) Whenever visibility is poor or when driving in inclement weather",
+    "option3": "C) Only when other vehicles use theirs",
+    "option4": "D) Only during winter months",
+    "correct_answer": "B) Whenever visibility is poor or when driving in inclement weather",
+    "explanation": "Headlights should be used whenever visibility is reduced, such as during rain, fog, or at night."
+  },
+  {
+    "id":4,
+    "selected":false,
+    "question": "What is the proper distance to maintain when following another vehicle on the road?",
+    "option1": "A) One car length",
+    "option2": "B) One second",
+    "option3": "C) Two seconds under normal conditions, or more in poor weather",
+    "option4": "D) One mile",
+    "correct_answer": "C) Two seconds under normal conditions, or more in poor weather",
+    "explanation": "Maintain a following distance of at least two seconds under normal conditions, and more if visibility or road conditions are poor."
+  },
+  {
+    "id":5,
+    "selected":false,
+    "question": "What does a solid yellow line on your side of the road indicate?",
+    "option1": "A) You may pass",
+    "option2": "B) No passing allowed",
+    "option3": "C) You are allowed to make a U-turn",
+    "option4": "D) You must stop",
+    "correct_answer": "B) No passing allowed",
+    "explanation": "A solid yellow line indicates that passing is not allowed in that lane."
+  },
+  {
+    "id":6, 
+    "selected":false,
+    "question": "When should you signal before turning?",
+    "option1": "A) 100 feet before making the turn",
+    "option2": "B) 200 feet before making the turn",
+    "option3": "C) 300 feet before making the turn",
+    "option4": "D) Only when there are other vehicles around",
+    "correct_answer": "B) 200 feet before making the turn",
+    "explanation": "You should signal at least 200 feet before making a turn to alert other drivers of your intention."
+  },
+  {
+    "id":7,
+    "selected":false,
+    "question": "What does a flashing red traffic light mean?",
+    "option1": "A) Proceed with caution",
+    "option2": "B) Stop completely and yield before proceeding",
+    "option3": "C) Speed up to clear the intersection",
+    "option4": "D) The intersection is closed",
+    "correct_answer": "B) Stop completely and yield before proceeding",
+    "explanation": "A flashing red light works like a stop sign. You must stop completely and yield to other traffic or pedestrians before proceeding."
+  },
+  {
+    "id":8,
+    "selected":false,
+    "question": "When is it legal to make a U-turn?",
+    "option1": "A) Only when there are no vehicles approaching",
+    "option2": "B) When the intersection is clear and there is a U-turn sign",
+    "option3": "C) At any intersection, regardless of signage",
+    "option4": "D) At intersections, but only when traffic signals allow it",
+    "correct_answer": "B) When the intersection is clear and there is a U-turn sign",
+    "explanation": "You may make a U-turn at an intersection when it is safe to do so and when there are no signs prohibiting it."
+  },
+  {
+    "id":9, 
+    "selected":false,
+    "question": "What should you do if you miss your exit on the freeway?",
+    "option1": "A) Stop and back up to the exit",
+    "option2": "B) Continue to the next exit and turn around",
+    "option3": "C) Make a U-turn at the next exit",
+    "option4": "D) Pull over and wait for help", 
+    "correct_answer": "B) Continue to the next exit and turn around",
+    "explanation": "If you miss your exit, continue to the next exit and turn around safely. Do not stop, back up, or attempt illegal maneuvers on the freeway."
+  },
+  {
+    "id":10,
+    "selected":false,
+    "question": "What is the rule for driving in a roundabout?",
+    "option1": "A) Yield to traffic already in the roundabout",
+    "option2": "B) Yield to vehicles entering from the right",
+    "option3": "C) Vehicles inside the roundabout must yield to vehicles entering",
+    "option4": "D) You can drive straight through without yielding",
+    "correct_answer": "A) Yield to traffic already in the roundabout",
+    "explanation": "When entering a roundabout, you must yield to traffic that is already in the roundabout to avoid collisions."
+  }
+]
