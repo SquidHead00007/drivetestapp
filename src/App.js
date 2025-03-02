@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Routes, Route} from "react-router-dom";
-import './App.css';
 import Home from "./Home";
+import QuizView from "./QuizView";
 
 function App() {
   return (
@@ -8,6 +8,7 @@ function App() {
       <Router>
          <Routes>
            <Route exact path="/" element={<Home />}></Route>
+           <Route path="/quizview" element={<QuizView/>}></Route>
          </Routes>
       </Router>
     </div>

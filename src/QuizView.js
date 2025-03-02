@@ -11,7 +11,7 @@ const QuizViewer = () => {
 
   useEffect(() => {
     if (quizCategory) {
-      import(`../data/${quizCategory}.json`)
+      import(`./data/${quizCategory}.json`)
         .then((module) => setData(module.default))
         .catch(() => setError('Failed to load data. Please check the query parameter or file.'));
     }
