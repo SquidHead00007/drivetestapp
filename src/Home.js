@@ -16,7 +16,7 @@ export function Home () {
         const filteredResults = allData.filter((item) =>
           item.name.toLowerCase().includes(query.toLowerCase())
         );
-        setResults(filteredResults);  // Update the results state
+        setResults(filteredResults);  //Update results state
       }
     };
 

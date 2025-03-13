@@ -4,10 +4,16 @@ import { useEffect, useState } from 'react';
 
 
 const QuizViewer = () => {
-  const [searchParams] = useSearchParams();
-  const quizCategory = searchParams.get('name');
-  const [data, setData] = useState([]);
-  const [error, setError] = useState('');
+const [searchParams] = useSearchParams();
+const quizCategory = searchParams.get('name');
+const [data, setData] = useState([]);
+const [error, setError] = useState('');
+const [mode, setMode] = useState(null);
+
+const [selectedAnswers, setSelectedAnswers] = useState({});
+const [score, setScore] = useState(null);
+const [submitted, setSubmitted] = useState(false);
+const [numQuestions, setNumQuestions] = useState(5); 
 
   useEffect(() => {
     if (quizCategory) {
@@ -24,14 +30,47 @@ const QuizViewer = () => {
   if (!data.length) {
     return <div>Loading data...</div>;
   }
+  
+  const toggleMode = (selectedMode) => {
+    setMode(selectedMode);
+    setScore(null); // Reset score when changing modes
+    setSubmitted(false); // Reset submission state
+    setSelectedAnswers({}); // Reset selected answers
+  };
+
+  const handleQuestionCountChange = (event) => {
+    setNumQuestions(Number(event.target.value)); // Set number of questions
+  };
 
   return (
     <div id="quizbody">
       <div>
         <NavBar />
       </div>
-     
-      {data.map((q) => {
+
+
+      {mode === null && (
+        <div>
+          <h1>Welcome to the Quiz</h1>
+          <button onClick={() => toggleMode('test')}>Take Test</button>
+          <button onClick={() => toggleMode('study')}>Study Mode</button>
+        </div>
+      )}
+
+      {mode && (
+        <div>
+          <label>
+            Select Number of Questions:
+            <select value={numQuestions} onChange={handleQuestionCountChange}>
+              <option value={3}>3</option>
+              <option value={5}>5</option>
+              <option value={10}>10</option>
+            </select>
+          </label>
+        </div>
+      )}
+
+        {mode && data.slice(0, numQuestions).map((q) => {
         // Collect all options dynamically
         const options = [
           q.option1,
