@@ -40,6 +40,19 @@ const [numQuestions, setNumQuestions] = useState(5);
     });
   };
 
+  const handleSubmit = () => {
+    let newScore = 0;
+
+    data.forEach((q) => {
+      if (selectedAnswers[q.id] === q.correct_answer) {
+        newScore++;
+      }
+    });
+
+    setScore(newScore);
+    setSubmitted(true);
+  };
+
   const toggleMode = (selectedMode) => {
     setMode(selectedMode);
     setScore(null); // Reset score when changing modes
@@ -126,6 +139,21 @@ const [numQuestions, setNumQuestions] = useState(5);
         );
       })}
 
+      {mode === 'test' && (
+        <div>
+          <button onClick={handleSubmit}>Validate</button>
+          {submitted && (
+            <div>
+              <h2>Your Score: {score} / {numQuestions}</h2>
+              {score === numQuestions ? (
+                <p>Perfect! You answered all questions correctly!</p>
+              ) : (
+                <p>Try again! Keep up the good work.</p>
+              )}
+            </div>
+          )}
+        </div>
+      )}
 
   </div>
   );
