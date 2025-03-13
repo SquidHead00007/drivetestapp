@@ -31,6 +31,15 @@ const [numQuestions, setNumQuestions] = useState(5);
     return <div>Loading data...</div>;
   }
   
+  const handleChange = (event, qId) => {
+    const { value } = event.target;
+
+    setSelectedAnswers({
+      ...selectedAnswers,
+      [qId]: value
+    });
+  };
+
   const toggleMode = (selectedMode) => {
     setMode(selectedMode);
     setScore(null); // Reset score when changing modes
@@ -89,15 +98,34 @@ const [numQuestions, setNumQuestions] = useState(5);
                     type="radio"
                     name={`q-${q.id}`}  // Unique name for each question
                     value={option}
+                    onChange={(e) => handleChange(e, q.id)}
+                    checked={selectedAnswers[q.id] === option}
+
                   />
                   {option}
                 </label>
               </div>
             ))}
 
+           {mode === 'study' && selectedAnswers[q.id] && (
+              <div>
+                {selectedAnswers[q.id] !== q.correct_answer ? (
+                  <div>
+                    <p>Incorrect!</p>
+                    <p>Correct Answer: {q.correct_answer}</p>
+                    <p>Explanation: {q.explanation}</p>
+                  </div>
+                ) : (
+                  <div>
+                    <p>Correct!</p>
+                  </div>
+                )}
+              </div>
+            )}
           </div>
         );
       })}
+
 
   </div>
   );
